@@ -146,7 +146,7 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\img\Logo.png" />
     <Content Include="Content\css\menuNavegacion.css" />
-    <Content Include="Content\js\categorias.js" />
+    <Content Include="Content\js\accionFormularios.js" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
