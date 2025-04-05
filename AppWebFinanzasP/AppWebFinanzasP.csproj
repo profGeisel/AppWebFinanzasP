@@ -121,6 +121,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ProveedorController.cs" />
     <Compile Include="Controllers\IngresoController.cs" />
     <Compile Include="Controllers\MonedaController.cs" />
     <Compile Include="Global.asax.cs">
@@ -181,6 +182,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Proveedor\gProveedores.cshtml" />
     <Content Include="Views\Ingreso\Login.cshtml" />
     <Content Include="Views\Ingreso\Registrar.cshtml" />
     <Content Include="Views\Moneda\gMoneda.cshtml" />
