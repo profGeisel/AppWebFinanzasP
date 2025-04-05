@@ -6,10 +6,10 @@ using System.Web.Mvc;
 
 namespace AppWebFinanzasP.Controllers
 {
-    public class MonedaController : Controller
+    public class CategoriasController : Controller
     {
-        // GET: Moneda
-        public ActionResult gMoneda()
+        // GET: Categorias
+        public ActionResult gCategorias()
         {
             return View();
         }
