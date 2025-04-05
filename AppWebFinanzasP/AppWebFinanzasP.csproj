@@ -122,6 +122,8 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CuentasController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MonedaController.cs" />
+    <Compile Include="Controllers\TipoMovimientoController.cs" />
     <Compile Include="Controllers\PresupuestoController.cs" />
     <Compile Include="Controllers\ProveedorController.cs" />
     <Compile Include="Controllers\IngresoController.cs" />
@@ -184,6 +186,8 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Moneda\gMoneda.cshtml" />
+    <Content Include="Views\TipoMovimiento\gMovimientos.cshtml" />
     <Content Include="Views\Presupuesto\gPresupuesto.cshtml" />
     <Content Include="Views\Cuentas\gCuentas.cshtml" />
     <Content Include="Views\Proveedor\gProveedores.cshtml" />
