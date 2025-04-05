@@ -6,10 +6,10 @@ using System.Web.Mvc;
 
 namespace AppWebFinanzasP.Controllers
 {
-    public class TipoMovimientoController : Controller
+    public class CuentasController : Controller
     {
-        // GET: TipoMovimiento
-        public ActionResult gMovimientos()
+        // GET: Cuentas
+        public ActionResult gCuentas()
         {
             return View();
         }
